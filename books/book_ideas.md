@@ -1,5 +1,6 @@
 # Ideas for new book projects
 
+- [ ] Care and feeding of developers
 - [ ] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
@@ -7,4 +8,4 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [ ] Mastering git
+- [x] Mastering git
